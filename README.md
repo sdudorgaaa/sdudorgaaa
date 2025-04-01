@@ -12,7 +12,7 @@
 - 🖥️ Работаю с Python 
 - 🌱 В ближайшем будующем планирую изучить Machine Learning
 - 💬 Могу помочь с разработкой telegram-bot под ключ
-- 📫 Связаться со мной: sdudorgaaa@gmail.com
+- 📫 Связаться со мной(telegram): @sdudorga
 
 ---
 

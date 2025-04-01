@@ -6,7 +6,7 @@
 
 Я - Стасик, программист и любитель котиков. 🐾
 
-- 🖥️ Работаю с Python
+- 🖥️ Работаю с Python ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - 🌱 В ближайшем будующем планирую изучить Machine Learning
 - 💬 Могу помочь с разработкой telegram-bot под ключ
 - 📫 Связаться со мной: sdudorgaaa@gmail.com

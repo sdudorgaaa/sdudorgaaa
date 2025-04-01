@@ -1,6 +1,6 @@
 # Привет! 👋
 
-![Котик, играющий с клубком](https://media.giphy.com/media/JIXwx8FfGOjYI/giphy.gif)
+![Котик, спящий на подушке](https://media.giphy.com/media/zZ7U2WVQd1mrm/giphy.gif)
 
 ## Обо мне
 
